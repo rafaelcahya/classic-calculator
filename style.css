@@ -16,6 +16,7 @@ body{
     justify-content: center;
     align-items: center;
     padding: 50px;
+    color: white;
 }
 
 .calculator-grid {
@@ -39,6 +40,7 @@ body{
     line-height: 60px;
     font-size: 20px;
     cursor: pointer;
+    text-align: center;
 }
 
 .calculator-button p:hover{
